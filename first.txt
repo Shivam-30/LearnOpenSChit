@@ -1,1 +1,2 @@
-this is my fir contri done ny shivam chit
+this is my first  contribution done ny shivam chit
+done some chaNGES   , after my commit
